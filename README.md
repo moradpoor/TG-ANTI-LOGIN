@@ -5,3 +5,9 @@
 
 
 به سایت my.telegram.org برو شمارت رو بزن و در قسمت Developer api tools باید api مخصوص اکانتت رو بگیری و در فایل config.py وارد کنی 
+
+قبل از اینکه کد رو ران کنید باید telethon رو با pip نصب کنید
+pip install telethon
+
+آموزش راه اندازی روی هاست یا سرور مجازی رو توی یوتوب قرار دادم 
+https://youtube.com/@codingwithabdollah
